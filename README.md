@@ -1,5 +1,5 @@
 # AsAndroidDevelop
-Android开发个人总结：https://blog.csdn.net/Samlss
+Android开发个人总结，csdn博客地址：https://blog.csdn.net/Samlss
 
 记录个人的安卓开发历程，希望能对你起到帮助
 
