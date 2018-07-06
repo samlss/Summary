@@ -21,3 +21,4 @@ Android开发个人总结，csdn博客地址：https://blog.csdn.net/Samlss
 # 无聊之亚作（未能为作，故称之为亚作）
 * [Android模仿今日头条搜索页](https://blog.csdn.net/samlss/article/details/80781693)
 * [ChargingView](https://github.com/samlss/ChargingView)
+* [PacmanLoadingView](https://github.com/samlss/PacmanLoadingView)
