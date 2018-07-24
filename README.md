@@ -11,7 +11,7 @@ Android开发个人总结，csdn博客地址：https://blog.csdn.net/Samlss
 * [Android Paint系列之Xfermode + 刮刮卡效果实现](https://blog.csdn.net/samlss/article/details/80798023)
 * [Android 自定义View系列之PathMeasure+Loading效果+小车跑道移动效果](https://blog.csdn.net/samlss/article/details/80860580)
 * [Android 自定义View系列之贝塞尔曲线+QQ未读消息拖拽效果实现+水波浪充电效果](https://blog.csdn.net/samlss/article/details/80840199)
-* [许多有趣的loading view, 将持续更新](https://github.com/samlss/FunnyLoadingViews)
+* [许多有趣的loading view, 将持续更新](https://blog.csdn.net/samlss/article/details/81189576)
 
 # 加密篇
 * [Android 加密算法归纳](https://blog.csdn.net/samlss/article/details/80781678)
@@ -25,3 +25,4 @@ Android开发个人总结，csdn博客地址：https://blog.csdn.net/Samlss
 * [PacmanLoadingView](https://github.com/samlss/PacmanLoadingView)
 * [PinBallLoadingView](https://github.com/samlss/PinBallLoadingView)
 * [PeasLoadingView](https://github.com/samlss/PeasLoadingView)
+* [ClockLoadingView](https://github.com/samlss/ClockLoadingView)
