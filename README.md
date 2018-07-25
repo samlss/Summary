@@ -26,3 +26,4 @@ Android开发个人总结，csdn博客地址：https://blog.csdn.net/Samlss
 * [PinBallLoadingView](https://github.com/samlss/PinBallLoadingView)
 * [PeasLoadingView](https://github.com/samlss/PeasLoadingView)
 * [ClockLoadingView](https://github.com/samlss/ClockLoadingView)
+* [SignalLoadingView](https://github.com/samlss/SignalLoadingView)
