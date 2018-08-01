@@ -13,6 +13,8 @@ Android开发个人总结，csdn博客地址：https://blog.csdn.net/Samlss
 * [Android 自定义View系列之贝塞尔曲线+QQ未读消息拖拽效果实现+水波浪充电效果](https://blog.csdn.net/samlss/article/details/80840199)
 * [许多有趣的loading view, 将持续更新](https://blog.csdn.net/samlss/article/details/81189576)
 
+* [Android 关于XmlResourceParser](https://blog.csdn.net/samlss/article/details/81332395)
+
 # 加密篇
 * [Android 加密算法归纳](https://blog.csdn.net/samlss/article/details/80781678)
 * [Android密钥库系统KeyStore](https://blog.csdn.net/samlss/article/details/80781640)
