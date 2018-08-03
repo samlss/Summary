@@ -30,3 +30,4 @@ Android开发个人总结，csdn博客地址：https://blog.csdn.net/Samlss
 * [ClockLoadingView](https://github.com/samlss/ClockLoadingView)
 * [SignalLoadingView](https://github.com/samlss/SignalLoadingView)
 * [DayNightLoadingView](https://github.com/samlss/DayNightLoadingView)
+* [XAnimator](https://github.com/samlss/XAnimator)
