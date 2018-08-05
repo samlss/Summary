@@ -14,6 +14,7 @@ Android开发个人总结，csdn博客地址：https://blog.csdn.net/Samlss
 * [许多有趣的loading view, 将持续更新](https://blog.csdn.net/samlss/article/details/81189576)
 
 * [Android 关于XmlResourceParser](https://blog.csdn.net/samlss/article/details/81332395)
+* [Android 手写动画框架](https://blog.csdn.net/Samlss/article/details/81393541)
 
 # 加密篇
 * [Android 加密算法归纳](https://blog.csdn.net/samlss/article/details/80781678)
