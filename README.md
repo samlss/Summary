@@ -33,6 +33,7 @@ Android开发个人总结，csdn博客地址：https://blog.csdn.net/Samlss
 * [DayNightLoadingView](https://github.com/samlss/DayNightLoadingView)
 * [XAnimator](https://github.com/samlss/XAnimator)
 * [LovelyView](https://github.com/samlss/LovelyView)
+* [JumboLoadingView](https://github.com/samlss/JumboLoadingView)
 
 
 # 可加微信撩撩:
