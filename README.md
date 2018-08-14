@@ -36,7 +36,7 @@ Android开发个人总结，csdn博客地址：https://blog.csdn.net/Samlss
 * [JumboLoadingView](https://github.com/samlss/JumboLoadingView)
 * [DonutProgressView](https://github.com/samlss/DonutProgressView)
 * [FanLoadingView](https://github.com/samlss/FanLoadingView)
-* [ClcokView](https://github.com/samlss/ClcokView)
+* [ClockView](https://github.com/samlss/ClockView)
 
 
 # 可加微信撩撩:
