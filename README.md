@@ -37,6 +37,7 @@ Android开发个人总结，csdn博客地址：https://blog.csdn.net/Samlss
 * [DonutProgressView](https://github.com/samlss/DonutProgressView)
 * [FanLoadingView](https://github.com/samlss/FanLoadingView)
 * [ClockView](https://github.com/samlss/ClockView)
+* [CircleProgressView](https://github.com/samlss/CircleProgressView)
 
 
 # 可加微信撩撩:
