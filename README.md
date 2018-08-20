@@ -24,20 +24,10 @@ Android开发个人总结，csdn博客地址：https://blog.csdn.net/Samlss
   
 # 无聊之伪作（未能为作，故称之为伪作）
 * [Android模仿今日头条搜索页](https://github.com/samlss/SearchPage)
-* [ChargingView](https://github.com/samlss/ChargingView)
-* [PacmanLoadingView](https://github.com/samlss/PacmanLoadingView)
-* [PinBallLoadingView](https://github.com/samlss/PinBallLoadingView)
-* [PeasLoadingView](https://github.com/samlss/PeasLoadingView)
-* [ClockLoadingView](https://github.com/samlss/ClockLoadingView)
-* [SignalLoadingView](https://github.com/samlss/SignalLoadingView)
-* [DayNightLoadingView](https://github.com/samlss/DayNightLoadingView)
 * [XAnimator](https://github.com/samlss/XAnimator)
 * [LovelyView](https://github.com/samlss/LovelyView)
-* [JumboLoadingView](https://github.com/samlss/JumboLoadingView)
-* [DonutProgressView](https://github.com/samlss/DonutProgressView)
-* [FanLoadingView](https://github.com/samlss/FanLoadingView)
-* [ClockView](https://github.com/samlss/ClockView)
-* [CircleProgressView](https://github.com/samlss/CircleProgressView)
+* [FunnyViews](https://github.com/samlss/FunnyViews)
+
 
 
 # 可加微信撩撩:
