@@ -20,7 +20,9 @@ Android开发个人总结，csdn博客地址：https://blog.csdn.net/Samlss
 * [Android 加密算法归纳](https://blog.csdn.net/samlss/article/details/80781678)
 * [Android密钥库系统KeyStore](https://blog.csdn.net/samlss/article/details/80781640)
 
-  
+# NDK篇
+* [Linux Nginx + RTMP 服务器环境搭建](https://blog.csdn.net/Samlss/article/details/82842120)
+
   
 # 无聊之伪作（未能为作，故称之为伪作）
 * [Android模仿今日头条搜索页](https://github.com/samlss/SearchPage)
