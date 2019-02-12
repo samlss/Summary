@@ -1,5 +1,10 @@
 # AsAndroidDevelop
-Android开发个人总结，csdn博客地址：https://blog.csdn.net/Samlss
+Android开发个人总结
+- csdn博客地址：https://blog.csdn.net/Samlss
+- 简书地址: https://www.jianshu.com/u/c13c37d30ac8
+- 掘金地址: https://juejin.im/user/5b67fb7d6fb9a04fb6150b56
+
+
 
 记录个人的安卓开发历程，希望能对你起到帮助
 
@@ -30,7 +35,3 @@ Android开发个人总结，csdn博客地址：https://blog.csdn.net/Samlss
 * [LovelyView](https://github.com/samlss/LovelyView)
 * [FunnyViews](https://github.com/samlss/FunnyViews)
 
-
-
-# 可加微信撩撩:
-![WeChat](https://github.com/samlss/FunnyLoadingViews/blob/master/wechat.jpg)
