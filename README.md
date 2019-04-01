@@ -1,4 +1,4 @@
-
+![motto](https://github.com/samlss/Summary/blob/master/art/screenshotmotto.png)
 
 # Summary
 个人开发总结
