@@ -1,10 +1,11 @@
+
+
 # Summary
 个人开发总结
 - csdn：https://blog.csdn.net/Samlss
 - 简书: https://www.jianshu.com/u/c13c37d30ac8
 - 掘金: https://juejin.im/user/5b67fb7d6fb9a04fb6150b56
 
-路漫漫其修远兮，吾将上下而求索
 
 # UI篇
 * [Android Paint系列之基础+着色器渲染器(实现霓虹灯文字+实现圆形头像+放大镜+倒影+雷达扫描效果)](https://blog.csdn.net/samlss/article/details/80807110)
@@ -24,9 +25,20 @@
 # NDK篇
 * [Linux Nginx + RTMP 服务器环境搭建](https://blog.csdn.net/Samlss/article/details/82842120)
 
+# Flutter篇
+* [Flutter学习之Dart语言注释](https://www.jianshu.com/p/d1dae0d5c472)
+* [Flutter学习之Dart语言基础(关键字)](https://www.jianshu.com/p/524e481ef3f6)
+* [Flutter学习之Dart语言基础(构造函数)](https://www.jianshu.com/p/13c2caf00b1b)
+* [Flutter学习之Dart语言基础(内置类型)](https://www.jianshu.com/p/b752db85f072)
+
+
 # 开源库
-* [Android模仿今日头条搜索页](https://github.com/samlss/SearchPage)
 * [XAnimator](https://github.com/samlss/XAnimator)
 * [LovelyView](https://github.com/samlss/LovelyView)
 * [FunnyViews](https://github.com/samlss/FunnyViews)
+* [TimoMenu](https://github.com/samlss/TimoMenu)
+* [Lighter](https://github.com/samlss/Lighter)
+* [Broccoli](https://github.com/samlss/Broccoli)
+* [Bloom](https://github.com/samlss/Bloom)
+* [Oops](https://github.com/samlss/Oops)
 
