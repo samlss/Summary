@@ -1,12 +1,8 @@
-# AsAndroidDevelop
-Android开发个人总结
-- csdn博客地址：https://blog.csdn.net/Samlss
-- 简书地址: https://www.jianshu.com/u/c13c37d30ac8
-- 掘金地址: https://juejin.im/user/5b67fb7d6fb9a04fb6150b56
-
-
-
-记录个人的安卓开发历程，希望能对你起到帮助
+# Summary
+个人开发总结
+- csdn：https://blog.csdn.net/Samlss
+- 简书: https://www.jianshu.com/u/c13c37d30ac8
+- 掘金: https://juejin.im/user/5b67fb7d6fb9a04fb6150b56
 
 路漫漫其修远兮，吾将上下而求索
 
@@ -28,8 +24,7 @@ Android开发个人总结
 # NDK篇
 * [Linux Nginx + RTMP 服务器环境搭建](https://blog.csdn.net/Samlss/article/details/82842120)
 
-  
-# 无聊之伪作（未能为作，故称之为伪作）
+# 开源库
 * [Android模仿今日头条搜索页](https://github.com/samlss/SearchPage)
 * [XAnimator](https://github.com/samlss/XAnimator)
 * [LovelyView](https://github.com/samlss/LovelyView)
