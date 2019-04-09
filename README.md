@@ -25,6 +25,10 @@
 # NDK篇
 * [Linux Nginx + RTMP 服务器环境搭建](https://blog.csdn.net/Samlss/article/details/82842120)
 
+# 源码分析篇
+* [JDK 1.8 HashMap 源码分析(一)](https://www.jianshu.com/p/8b72bd903178)
+* [JDK 1.8 HashMap 源码分析(二)](https://www.jianshu.com/p/c34e77162894)
+
 # Flutter篇
 * [Flutter学习之Dart语言注释](https://www.jianshu.com/p/d1dae0d5c472)
 * [Flutter学习之Dart语言基础(关键字)](https://www.jianshu.com/p/524e481ef3f6)
