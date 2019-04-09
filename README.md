@@ -1,4 +1,4 @@
-![motto](https://github.com/samlss/Summary/blob/master/art/motto.png)
+![motto](https://github.com/samlss/Summary/blob/master/motto.png)
 
 # 个人开发总结
 
