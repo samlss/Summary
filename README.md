@@ -28,6 +28,8 @@
 # 源码分析篇
 * [JDK 1.8 HashMap 源码分析(一)](https://www.jianshu.com/p/8b72bd903178)
 * [JDK 1.8 HashMap 源码分析(二)](https://www.jianshu.com/p/c34e77162894)
+* [JDK 1.8 LinkedHashMap 源码分析](https://www.jianshu.com/p/aa485a0363e9)
+
 
 # Flutter篇
 * [Flutter学习之Dart语言注释](https://www.jianshu.com/p/d1dae0d5c472)
