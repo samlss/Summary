@@ -37,6 +37,8 @@
 * [Flutter学习之Dart语言基础(构造函数)](https://www.jianshu.com/p/13c2caf00b1b)
 * [Flutter学习之Dart语言基础(内置类型)](https://www.jianshu.com/p/b752db85f072)
 
+# 杂七杂八
+* [单例模式+valatile关键字](https://github.com/samlss/Summary/blob/master/singleton_volatile.md)
 
 # 开源库
 * [XAnimator](https://github.com/samlss/XAnimator)
