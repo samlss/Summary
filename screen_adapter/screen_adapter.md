@@ -192,7 +192,8 @@ Log.e("TAG", "smallestWidthInDp: "+smallestWidthInDp);
 
 ![snap_resolution_and_dp](https://github.com/samlss/Summary/blob/master/screen_adapter/snap_resolution_and_dp.png)
 
-这里有谷歌提供的更准确的设备列表：https://material.io/tools/devices，这里囊括了各种分辨率的屏幕，也注明了对应的最小宽度。当然，因为安卓的开源性，可能这里的统计也会有遗漏，因此，如果你需要适配更精准的最小宽度，你可以手动添加对应的values-swXXXdp。当然，你如果不匹配的话，也会找到对应的最小宽度的目录，然后拿到对应的dimens。
+这里有谷歌提供的更准确的设备列表：https://material.io/tools/devices
+这里囊括了各种分辨率的屏幕，也注明了对应的最小宽度。当然，因为安卓的开源性，可能这里的统计也会有遗漏，因此，如果你需要适配更精准的最小宽度，你可以手动添加对应的values-swXXXdp。当然，你如果不匹配的话，也会找到对应的最小宽度的目录，然后拿到对应的dimens。
 例如当前程序运行在最小宽度为360的手机上，系统会自动去获取values-sw360dp目录下的dimens.xml文件下相应的值，如果当前程序没有values-sw360dp目录，但是有values-sw320dp目录，那么系统就会去找到values-sw320dp目录取对应的值。
 
 向下取最小宽度的好处是，哪怕没有百分之百匹配，也有很高的契合率，不会导致遮挡问题。例如现在手机最小宽度是360dp，但是程序资源上只有values-sw320dp，那么取320dp，320/360≈0.8889，在保证不会导致遮挡的问题下，误差在0.12左右，即values-sw360dp下的1dp大概等于values-sw320dp下的0.88dp，在这个误差范围之内，显示效果还是相当不错的。
