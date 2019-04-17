@@ -39,7 +39,7 @@
 
 # 杂七杂八
 * [单例模式+valatile关键字](https://github.com/samlss/Summary/blob/master/singleton_volatile.md)
-* [屏幕适配的几种方案以及优缺点分析](https://github.com/samlss/Summary/blob/master/screen_adapter/屏幕适配的几种方案以及优缺点分析.md)
+* [屏幕适配的几种方案以及优缺点总结](https://github.com/samlss/Summary/blob/master/screen_adapter/screen_adapter.md)
 
 # 开源库
 * [XAnimator](https://github.com/samlss/XAnimator)
