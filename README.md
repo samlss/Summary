@@ -40,6 +40,7 @@
 # 杂七杂八
 * [单例模式+valatile关键字](https://github.com/samlss/Summary/blob/master/singleton_volatile.md)
 * [屏幕适配的几种方案以及优缺点总结](https://github.com/samlss/Summary/blob/master/screen_adapter/screen_adapter.md)
+* [关于protobuf和记录在Android中使用Protobuf过程](https://github.com/samlss/Summary/blob/master/protobuf/protobuf.md)
 
 # 开源库
 * [XAnimator](https://github.com/samlss/XAnimator)
