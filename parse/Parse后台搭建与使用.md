@@ -293,10 +293,6 @@ npm install -g parse-dashboard
 
 成功后会提示：
 
-```shell
-ln -s /root/parse/node/lib/node_modules/parse-dashboard/bin/parse-dashboard /usr/local/bin/parse-dashboard
-```
-
 ![snap_parse_dashboard_start_success](https://github.com/samlss/Summary/blob/master/parse/snap_parse_dashboard_start_success.png)
 
 阿里云这边需要开启安全组允许外网4040端口：
