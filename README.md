@@ -30,6 +30,7 @@
 * [JDK 1.8 HashMap 源码分析(二)](https://www.jianshu.com/p/c34e77162894)
 * [JDK 1.8 LinkedHashMap 源码分析](https://www.jianshu.com/p/aa485a0363e9)
 * [Android SparseArray源码分析](https://www.jianshu.com/p/344c0b3567c4)
+* [Android事件分发机制源码分析](https://github.com/samlss/Summary/blob/master/android-events-dispatch.md)
 
 
 # Flutter篇
