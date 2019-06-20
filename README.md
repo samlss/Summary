@@ -45,6 +45,7 @@
 * [关于刘海屏适配](https://github.com/samlss/Summary/blob/master/notch/关于刘海屏适配.md)
 * [关于protobuf和记录在Android中使用Protobuf过程](https://github.com/samlss/Summary/blob/master/protobuf/protobuf.md)
 * [Android混淆说明](https://github.com/samlss/Summary/blob/master/proguard-rules-description.pro)
+* [线程相关理解](https://github.com/samlss/Summary/blob/master/thread/%E7%BA%BF%E7%A8%8B%E7%9B%B8%E5%85%B3.md)
 
 # Parse篇
 * [Parse后台搭建与使用](https://github.com/samlss/Summary/blob/master/parse/Parse%E5%90%8E%E5%8F%B0%E6%90%AD%E5%BB%BA%E4%B8%8E%E4%BD%BF%E7%94%A8.md)
