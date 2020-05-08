@@ -1,6 +1,6 @@
 ### LocalBroadcastManager源码分析
-- 版本：**++androidx.localbroadcastmanager:1.0.0++**
-- 代码行数（连注释）：++**319**++
+- 版本：**androidx.localbroadcastmanager:1.0.0**
+- 代码行数（连注释）：**319**
 
 #### 官方注释
 ```
