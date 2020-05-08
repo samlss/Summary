@@ -31,7 +31,7 @@
 * [JDK 1.8 LinkedHashMap 源码分析](https://www.jianshu.com/p/aa485a0363e9)
 * [Android SparseArray源码分析](https://www.jianshu.com/p/344c0b3567c4)
 * [Android事件分发机制源码分析](https://github.com/samlss/Summary/blob/master/android-events-dispatch.md)
-
+* [LocalBroadcastMananger源码分析](https://github.com/samlss/Summary/blob/master/LocalBroadcastMananger.md)
 
 # Flutter篇
 * [Flutter学习之Dart语言注释](https://www.jianshu.com/p/d1dae0d5c472)
